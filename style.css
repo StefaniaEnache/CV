@@ -1,0 +1,41 @@
+body {
+  background-color: #e5e5e5;
+  box-shadow: #f1eeee;
+}
+
+.personal-info {
+  margin-left: 50px;
+  margin-bottom: 60px;
+  text-align: left;
+}
+
+.professional-info {
+  margin-left: 56px;
+  margin-right: 28px;
+  margin-bottom: 14px;
+}
+
+h1 {
+  color: #101214;
+}
+
+h2 {
+  color: #005889;
+}
+
+li {
+  font-weight: bold;
+}
+
+.university {
+  color: #005889;
+  font-weight: bold;
+}
+
+.skills {
+  display: flex;
+}
+
+.skill {
+  width: 33%;
+}
